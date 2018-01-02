@@ -1,7 +1,7 @@
 var data = {
-    idPost: '10155872958359035',
-    appId: '704184503126201',
-    access_token: "EAAKAc7sqSLkBAAg3QxvPKLZAMccrkIZCLP8VYZCj1gx8hXZBXZAzz0UVRiC9MIc9RkscKHvPB8Sue2VC2a697FbzTZCj1lZAQMDZC5oZCcEyhZBXiFhMTmXzlFwp0MbZAR2u8sCrcXxxk6f1ZCGXz3htUPpzEBeRLfketg6S11fbcZBvF9PWkcDT5dNuR"
+    idPost: '',
+    appId: '',
+    access_token: ""
 };
 
 
